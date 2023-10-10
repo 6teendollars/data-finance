@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/data-finance/static/css/main.1552612e.css",
+    "main.js": "/data-finance/static/js/main.a8088026.js",
+    "static/media/laptop.jpg": "/data-finance/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-finance/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-finance/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-finance/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-finance/index.html",
+    "main.1552612e.css.map": "/data-finance/static/css/main.1552612e.css.map",
+    "main.a8088026.js.map": "/data-finance/static/js/main.a8088026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1552612e.css",
+    "static/js/main.a8088026.js"
+  ]
+}
